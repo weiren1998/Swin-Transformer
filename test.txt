@@ -1,1 +1,3 @@
-test if the author could see this
+We use the same Kaggle notebook GPU environment to train this models.
+
+From the parameter aspect, the VGG16 is the largest one, which contains 50.8M trainable parameters.  The SENet18's total parameters nearly two times of ResNet18. The large amount of parameters may be one reason for the VGG and SENet18 to be overfitted.  Maybe the models are too large but the training set is not large enough. We could use more advanced data augmentation methods like mixup to augment the training data. And tuning the Dropout rate and L2 norm to eliminate the overfitting problem.
