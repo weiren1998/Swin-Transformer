@@ -6,3 +6,6 @@ From the parameter aspect, the VGG16 is the largest one, which contains 50.8M tr
 In this project, we try to use three CNN models to solve the Cifar100 classification problem. We try our best to tuning the hyper-parameters such as batch size, learning rate, and decay rate etc. Through this project, we have improved our ability to build a CNN model use pytorch architecture and improved the understanding of hyper-parameters. And we are also familiar with the Cifar100 dataset and some image augmentation methods. 
 
 In the future, we will try to use more advanced data augmentation methods like mixup to eliminate the overfitting problem. And we will also try to tunning other hyper parameters such as dropout rate, weight_decay rate, and optimizer methods, etc.
+
+深度学习基础知识+代码
+https://zh.d2l.ai/index.html
