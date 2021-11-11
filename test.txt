@@ -9,3 +9,5 @@ In the future, we will try to use more advanced data augmentation methods like m
 
 深度学习基础知识+代码
 https://zh.d2l.ai/index.html
+
+交叉熵损失函数：https://blog.csdn.net/bitcarmanlee/article/details/105619286
