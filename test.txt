@@ -6,13 +6,18 @@ Week 3
 5. IT Project Management：PM的责任，PM挑战，PM成功经验等，和4比较相关，可以一起查询
 
 Week 4
-1. What are sources?：一手信息，二手，三手
+1. What are sources?：一手信息，二手，三手（Tertiary sources）
+2. Primary Research vs Secondary Research: Definitions, Differences, and Examples:一手research的类型如surveys，interviews，observation等5个；二手research的类型如academic peer-reviewed journals
+3. Step-by-Step Guide & Research Rescue: Evaluating Credibility: 评估资料的可信度，从不同维度验证信息的可靠性
+4. Why and how to use sources：为什么引用文献（n个点），怎么引用（2点）
+5. External Analysis Research：和3讲的差不多，是相应的展开
 
-
-
-
-
-
+Week 5
+1. The Ultimate Guide to Project Tracking:PT是什么？Why use PT（4个优点）？如何高效PT？（n种方法）
+2. Six Reasons Why Research Is Important：6个研究的重要性+如何提高研究能力
+3. Differences Between Qualitative（定性） and Quantitative Research Methods:定性和定量研究方法，纯表格对比
+4. Research Methods: What are research methods?定性定量混合三者定义+不同类型数据收集方法
+5. The benefits of business analytics: 商业分析的五个好处+商业分析的三种类型
 
 
 
