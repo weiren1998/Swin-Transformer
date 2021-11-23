@@ -1,7 +1,12 @@
+Week 3
 1. Business Alignment 业务协调
 2. Waterfall vs. Incremental vs. Spiral vs. Rad Model: Key Difference 表格对比特性
+3. Top 6 software development models and how they influence the SDLC 迭代模型 敏捷模型 DevOps模型 waterfall模型, Verification and Validation, Spiral模型
+4. The Ultimate Guide to IT Project Management: 项目管理定义(ITPM)， IT项目的六个阶段Initiation Definition Design Development Implementation Follow Up
+5. IT Project Management：PM的责任，PM挑战，PM成功经验等，和4比较相关，可以一起查询
 
-
+Week 4
+1. What are sources?：一手信息，二手，三手
 
 
 
