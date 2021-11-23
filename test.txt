@@ -19,18 +19,19 @@ Week 5
 4. Research Methods: What are research methods?定性定量混合三者定义+不同类型数据收集方法
 5. The benefits of business analytics: 商业分析的五个好处+商业分析的三种类型
 
+Week 6
+1. What is project scope? Defining and outlining project success: Scope的定义，scope statement，scope creep的定义，以及如何消除
+2. 6 Successful Project Estimation Techniques in 2021：三个主要的项目评估方面：effort cost resource； 六种评估手段
+3. Project Estimating – Analogous, Bottom-up, Parametric, three point：和2有重叠，也是5-6种评估手段的特点，有张图总结的还不错
+4. Project failure--12 mistakes to avoid:
+5. Why do projects really fail?：后两篇都是为什么失败的原因，有很多
+
+Project scope is a detailed outline of all aspects of a project, including all related activities, resources, timelines, and deliverables, as well as the project’s boundaries. A project scope also outlines key stakeholders, processes, assumptions, and constraints, as well as what the project is about, what is included, and what isn’t.
+Scrope creep refers to a scenario whereby changes occur after the project has been started and the changes are not defined or anticipated within the scope statement. When scope creep occurs, it can negatively impact the project timeline, deliverable quality, resources, budget, and other aspects. Managing the scope of your project can help avoid unwelcome surprises.
 
 
 
 
-We use the same Kaggle notebook GPU environment to train this models.
-
-From the parameter aspect, the VGG16 is the largest one, which contains 50.8M trainable parameters.  The SENet18's total parameters nearly two times of ResNet18. The large amount of parameters may be one reason for the VGG and SENet18 to be overfitted.  Maybe the models are too large but the training set is not large enough. We could use more advanced data augmentation methods like mixup to augment the training data. And tuning the Dropout rate and L2 norm to eliminate the overfitting problem.
-
-
-In this project, we try to use three CNN models to solve the Cifar100 classification problem. We try our best to tuning the hyper-parameters such as batch size, learning rate, and decay rate etc. Through this project, we have improved our ability to build a CNN model use pytorch architecture and improved the understanding of hyper-parameters. And we are also familiar with the Cifar100 dataset and some image augmentation methods. 
-
-In the future, we will try to use more advanced data augmentation methods like mixup to eliminate the overfitting problem. And we will also try to tunning other hyper parameters such as dropout rate, weight_decay rate, and optimizer methods, etc.
 
 深度学习基础知识+代码
 https://zh.d2l.ai/index.html
